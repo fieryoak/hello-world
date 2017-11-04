@@ -1,2 +1,3 @@
 # hello-world
-tutorial stuff
+
+Just following along with the bouncing dot.
